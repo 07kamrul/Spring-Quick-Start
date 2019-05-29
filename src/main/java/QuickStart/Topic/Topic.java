@@ -38,6 +38,7 @@ public class Topic {
 	}
 
 	public Topic() {
+
 	}
 
 }
